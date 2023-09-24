@@ -1,0 +1,1 @@
+console.log("te amo meu amor!")
